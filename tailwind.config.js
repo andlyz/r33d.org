@@ -15,6 +15,7 @@ module.exports = {
           'black': {
             '500': 'rgb(70, 60, 51)',
             '600': 'rgb(60, 52, 53)',
+            '700': 'rgb(47, 41, 41)',
             '800': 'rgb(34, 32, 37)',
             '900': 'rgb(19, 18, 23)',
             '950': 'rgb(11, 12, 7)',
@@ -66,6 +67,10 @@ module.exports = {
             '.anchor-level-3, .anchor-level-4, .anchor-level-5, .anchor-level-6': { display: 'none' },
           }
         },
+        attic: {
+          css: {
+          }
+        }
       })
     },
   },
