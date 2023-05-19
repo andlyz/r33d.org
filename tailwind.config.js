@@ -69,6 +69,9 @@ module.exports = {
         },
         attic: {
           css: {
+            '--tw-prose-bullets': theme('colors.red[500]'),
+            '--tw-prose-counters': theme('colors.red[500]'),
+            '--tw-prose-links': theme('colors.attic.black[900]'),
           }
         }
       })

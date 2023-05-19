@@ -52,7 +52,7 @@
 
 <body class=" bg-attic-red-200">
   <main>
-    <article class="md:mt-16 mx-auto prose md:prose-lg
+    <article class="md:mt-16 mx-auto prose prose-attic md:prose-lg
     ">
       <div id="heading" class="px-2 not-prose">
         <span class="block text-3xl md:text-5xl my-3 md:my-5 font-extralight text-attic-gray-200">
@@ -63,13 +63,23 @@
             <a href="/sectors/foundations-of-antiquity" style="-webkit-text-stroke: 1px #5C2E2D;"
               class="font-playfair-display text-attic-black-800 hyphens-auto">Foundations of Antiquity</a>
           </span>
-          <span class="block mt-8 text-right text-3xl md:text-6xl
-           font-arca-majora text-attic-black-600">From Homer to Aristotle</span>
+          <p role="doc-subtitle" class="block mt-8 mb-4 text-right text-3xl md:text-6xl
+            font-arca-majora
+            text-attic-gray-200
+           ">From Homer to Aristotle</p>
         </h1>
+        <a
+          href="https://en.wikipedia.org/wiki/Minoan_civilization#/media/File:Map_of_Greece,_Archipelago_and_part_of_Anadoli;_Louis_Stanislas_d'Arcy_Delarochette_1791.jpg">
+          <img src="/img/maps/map-of-greece-and-anadoli.webp" alt="Map of Greece, drawn in 1791 by William Faden"
+            title="Map of Greece, drawn in 1791 by William Faden">
+        </a>
       </div>
       <hr class="mt-4 border-1 md:border- border-red-500">
       <div id="content" class="md:my-16 px-2 font-fira-sans font-normal
       prose-h2:text-attic-black-700
+      prose-h3:text-attic-black-600
+       prose-strong:text-attic-black-900
+       prose-em:text-attic-black-900
       ">
         {{ page.content | safe }}
       </div>
