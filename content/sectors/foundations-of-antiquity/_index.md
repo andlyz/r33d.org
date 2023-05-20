@@ -4,14 +4,26 @@ template = "sector.html"
 
 <!-- [![Map of Greece, drawn in 1791 by William Faden](/img/maps/map-of-greece-and-anadoli.webp "Map of Greece, drawn in 1791 by William Faden")](https://en.wikipedia.org/wiki/Minoan_civilization#/media/File:Map_of_Greece,_Archipelago_and_part_of_Anadoli;_Louis_Stanislas_d'Arcy_Delarochette_1791.jpg) -->
 
-This page is a part of the [public sector](/#public-sectors) series, offered by the [Public Works](/) book club. It serves to organize information, across different textual works, about the early part of [classical antiquity](https://en.wikipedia.org/wiki/Classical_antiquity), a time period corresponding to the [Archaic](https://en.wikipedia.org/wiki/Archaic_Greece) and [Classical](https://en.wikipedia.org/wiki/Classical_Greece) Periods of ancient Greece __(776 - 336 BCE)__.  It more or less begins with the resurgence of Greek writing, around the time of [Homer](https://en.wikipedia.org/wiki/Homer) (Ὅμηρος), and ends around the time of [Aristotle](https://en.wikipedia.org/wiki/Aristotle) (Ἀριστοτέλης), after the death of [Philip II of Macedon](https://en.wikipedia.org/wiki/Philip_II_of_Macedon) (Φίλιππος).
+This page is a part of the [public sector](/#public-sectors) series, offered by the [Public Works](/) book club.
+It serves to organize information, across different textual works, about the early part of [classical antiquity](https://en.wikipedia.org/wiki/Classical_antiquity).
+The time periods covered by this page begins with the resurgence of Greek writing and the first [Olympic Games](https://en.wikipedia.org/wiki/Ancient_Olympic_Games) (Ὀλυμπιακοὶ ἀγῶνες)
+in __776 BCE__, around the time of [Homer](https://en.wikipedia.org/wiki/Homer) (Ὅμηρος)
+, and ends with the death of [King Philip II of Macedon](https://en.wikipedia.org/wiki/Philip_II_of_Macedon) (Φίλιππος),
+in __336 BCE__ , around the time of [Aristotle](https://en.wikipedia.org/wiki/Aristotle) (Ἀριστοτέλης).
+
+This corresponds roughly to the
+[Archaic](https://en.wikipedia.org/wiki/Archaic_Greece)
+and
+[Classical](https://en.wikipedia.org/wiki/Classical_Greece)
+Periods of ancient Greece _(although the rise of [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great) (Ἀλέξανδρος) falls within the Classical Period, we will be cover it in a follow up [public sector](/#public-sectors))_.
+![The ages of Classical Antiquity, and what is covered on this page.](/illo/classical-antiquity-diagram_attic.webp "The ages of Classical Antiquity, and what is covered on this page.")
 
 
 ## Historical Context
 
-A brief overview of the historical context leading up to the Peloponnesian War (431 BCE).
+* Humans have been in Greece for 200,000 years (earliest Homo sapiens remains found outside of Africa)
+* First evidence of farming in Europe was found in Greece, going back to c. 7,000 BCE
 
-_(Map of Greece, drawn in 1791 by William Faden)_
 
 ### Neolithic Greece and Before
 
