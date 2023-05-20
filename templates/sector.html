@@ -45,36 +45,42 @@
 
 <body class=" bg-attic-red-200">
   <main>
-    <article class="md:mt-16 mx-auto prose prose-attic md:prose-lg
-    ">
-      <div id="heading" class="px-2 not-prose">
-        <span
-          class="block text-3xl md:text-6xl my-3 md:my-5 font-extralight md:font-light text-attic-gray-200 md:drop-shadow-[3px_3px_0px_rgba(0,162,255,0.58)] md:opacity-60">
-          <a href=" /">Public Works'</a>
-        </span>
-        <h1>
-          <span class="block text-5xl md:text-9xl md:drop-shadow-[4px_0px_0px_rgba(240,212,195,0.5)]">
-            <a href="/sectors/foundations-of-antiquity" style="-webkit-text-stroke: 1px #5C2E2D;"
-              class="font-playfair-display text-attic-black-800 hyphens-auto">Foundations of Antiquity</a>
-          </span>
-          <p role="doc-subtitle" class="block mt-8 mb-4 text-right text-3xl md:text-6xl
-            font-arca-majora
-            text-attic-gray-200
-           ">From Homer to Aristotle</p>
+    <article class="md:mt-16 mx-auto prose prose-attic md:prose-lg">
+      <header id="heading" class="px-2 not-prose">
+        <a href="/" class="block text-attic-gray-200
+          my-3 md:my-5
+          text-3xl md:text-6xl
+          font-extralight md:font-light
+          md:drop-shadow-[3px_3px_0px_rgba(0,162,255,0.7)] md:opacity-60">
+          Public Works'
+        </a>
+        <h1 class="block font-playfair-display text-attic-black-800 hyphens-auto
+          text-5xl md:text-9xl
+          md:drop-shadow-[4px_0px_0px_rgba(240,212,195,0.5)]">
+          Foundations of Antiquity
         </h1>
+        <p role="doc-subtitle" class="block mt-8 mb-4 text-right
+          text-3xl md:text-6xl
+          font-arca-majora
+          text-attic-gray-200
+          ">From Homer to Aristotle</p>
         <a
           href="https://en.wikipedia.org/wiki/Minoan_civilization#/media/File:Map_of_Greece,_Archipelago_and_part_of_Anadoli;_Louis_Stanislas_d'Arcy_Delarochette_1791.jpg">
-          <img src="/img/maps/map-of-greece-and-anadoli.webp" alt="Map of Greece, drawn in 1791 by William Faden"
-            title="Map of Greece, drawn in 1791 by William Faden" class="border-2 border-attic-black-900">
+          <figure>
+            <img src="/img/maps/map-of-greece-and-anadoli.webp" alt="Map of Greece, drawn in 1791 by William Faden"
+              title="Map of Greece, drawn in 1791 by William Faden" class="border-2 border-attic-black-900">
+            <figcaption class="text-right text-xs font-light mt-1">Map of Greece, drawn in 1791 by William Faden
+            </figcaption>
+          </figure>
         </a>
-      </div>
-      <hr class="mt-4 border-1 md:border- border-red-500">
-      <div id="content" class="md:my-16 px-2 font-fira-sans font-normal
-      prose-h2:text-attic-black-700
-      prose-h3:text-attic-black-600
-       prose-strong:text-attic-black-900
-       prose-em:text-attic-black-900
-      ">
+        <hr class="mt-4 border-1 md:border- border-red-500">
+      </header>
+      <div id="content" class="font-fira-sans font-normal
+        md:my-16 px-2
+        prose-h2:text-attic-black-700
+        prose-h3:text-attic-black-600
+        prose-strong:text-attic-black-900
+        prose-em:text-attic-black-900">
         {{ section.content | safe }}
       </div>
     </article>
