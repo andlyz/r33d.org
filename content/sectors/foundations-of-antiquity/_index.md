@@ -57,6 +57,11 @@ Another important civilization belonged to the [Mycenaeans](https://en.wikipedia
 
 The [Trojan War](https://en.wikipedia.org/wiki/Trojan_War) is the subject of the Homeric epic poem [The Iliad](https://en.wikipedia.org/wiki/Iliad) (Ἰλιάς), telling the story of a protracted Greek siege of the city of [Troy](https://en.wikipedia.org/wiki/Troy) (Ίλιον), after [Paris](https://en.wikipedia.org/wiki/Paris_(mythology)) (Πάρις) of Troy took [Helen](https://en.wikipedia.org/wiki/Helen_of_Troy) (Ἑλένη), the wife of [King Menelaus](https://en.wikipedia.org/wiki/Menelaus) (Μενέλαος) of Sparta away. The city of Troy eventually falls, due to the cunning [Odyssey's](https://en.wikipedia.org/wiki/Odysseus) (Ὀδυσσεύς) Trojan Horse. The exact date of the Trojan war is unknown, but the best sources of antiquity believed it be c. 1184 BCE, which was determined by [Eratosthenes](https://en.wikipedia.org/wiki/Eratosthenes) (Ἐρατοσθένης). To the ancient Greeks, the war existed somewhere between being the last event of the mythical age and the first event of the historical age.
 
+{{
+  fig(img='![Painting of the fire of Troy](/img/Keuninck_(Coninck)_Kerstiaen_de_-_Fire_of_Troy@0.5x.webp "_Fire of Troy_ by Kerstiaen de Keuninck, second half of 16th century")',
+  cite='<a href="https://commons.wikimedia.org/wiki/File:Keuninck_(Coninck)_Kerstiaen_de_-_Fire_of_Troy.jpeg">Kerstiaen de Keuninck</a>, Public domain, via Wikimedia Commons')
+}}
+
 #### Bronze Age Collapse (c. 1200 - c. 1150)
 
 Beginning around the time period that roughly corresponds, incidentally, with the fall of Troy, there was a sudden and widespread societal collapse across the eastern Mediterranean. Virtually every Mediterranean empire except for the Egyptians saw their cities violently destroyed or abandoned. This event precipitated brought about the [Greek Dark Ages](#the-greek-dark-ages).
