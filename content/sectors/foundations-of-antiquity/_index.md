@@ -46,7 +46,7 @@ It was this volcanic eruption that buried the nearby Minoan settlement of [Akrot
 
 #### Mycenaean Civilization (c. 1750 – c. 1050 BC)
 
-Another important civilization belonged to the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece), who were part of the last phase of the Bronze Age in Ancient Greece, roughly coinciding with the mythical and quasi-historical [Trojan War](#trojan-war-c-1200-bce). Unlike the [Minoans](#minoan-civilization-c-3200-c-1100-bce), the Mycenaeans were from the main continent, who expanded their influence to the surrounding islands.
+Another important civilization belonged to the [Mycenaeans](https://en.wikipedia.org/wiki/Mycenaean_Greece), who were part of the last phase of the Bronze Age in Ancient Greece, roughly coinciding with the mythical and quasi-historical [Trojan War](#trojan-war-c-1200-bce). Unlike the [Minoans](#minoan-civilization-c-3200-c-1100-bce), the Mycenaeans were from the main continent, who expanded their influence to the surrounding islands, and they used a writing system referred to today as [Linear B](https://en.wikipedia.org/wiki/Linear_B).
 
 {{
   fig(img='![Map of the Mycenaean World](/img/maps/Mycenaean_World_en.webp "The Mycenaean World c. 1400 - c. 1100 BCE")',
@@ -85,6 +85,9 @@ The Egyptian [Pharoh Ramsesses III](https://en.wikipedia.org/wiki/Ramesses_III) 
 
 ### The Greek Dark Ages
 
+Around the time of the [Bronze Age Collapse](#bronze-age-collapse-c-1200-c-1150), specifically the end of Mycenaean palatial civilization c. 1100 BCE, the use of the [Linear B](https://en.wikipedia.org/wiki/Linear_B) writing system, used by Mycenaean bureaucrats, disappears, and thus there is no writing from this time period. Pottery becomes simpler during this time too, lacking the depiction of figures from the Mycenaeans. With the exception of [Athens](https://en.wikipedia.org/wiki/Athens) (Αθήνα), major settlements were abandoned, and the Greek people lived in small, pastoral groups, leaving behind no traces of writing.
+
+One important consequence of this time period was the dismantling of the [palace economies](https://en.wikipedia.org/wiki/Palace_economy) from the Minoan and Mycenaean civilizations, which involved strict class hierarchies and hereditary rule.
 
 ## Important Synonyms and Definitions
 
