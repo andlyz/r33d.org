@@ -17,7 +17,6 @@ This corresponds roughly to the [Archaic](https://en.wikipedia.org/wiki/Archaic_
   - [Neolithic Greece and Earlier](#neolithic-greece-and-earlier)
   - [Bronze Age (c. 3200 – c. 1200 BCE)](#bronze-age-c-3200-c-1200-bce)
   - [The Greek Dark Ages](#the-greek-dark-ages)
-- [Important Synonyms and Definitions](#important-synonyms-and-definitions)
 - [Texts](#texts)
 <!-- /TOC -->
 
@@ -89,9 +88,24 @@ Around the time of the [Bronze Age Collapse](#bronze-age-collapse-c-1200-c-1150)
 
 One important consequence of this time period was the dismantling of the [palace economies](https://en.wikipedia.org/wiki/Palace_economy) from the Minoan and Mycenaean civilizations, which involved strict class hierarchies and hereditary rule.
 
-## Important Synonyms and Definitions
+<!-- ## Important Synonyms and Terms
 
-- __Peloponnese (Πελοπόννησος)__ is a peninsula in southern Greece that connects to the mainland via the [Isthmus of Corinth](https://en.wikipedia.org/wiki/Isthmus_of_Corinth) (Ισθμός της Κορίνθου). In classical antiquity it was home to the Laconia, Messenia, Argolis, Arcadia, Corinthia, Achaea, and Elis.
+- **Hellas (Ελλάς)** - *(also Greece, Hellenes:Greeks)* - the ancient and modern name of Greece, owing it's name to the mythological [Hellen](https://en.wikipedia.org/wiki/Hellen) (Ἕλλην), son of [Deucalion](https://en.wikipedia.org/wiki/Deucalion) (Δευκαλίων) and [Pyrrha](https://en.wikipedia.org/wiki/Pyrrha) (Πύρρα). The **Hellenes (Έλληνες)** are the Greeks.
+- **[Peloponnese](https://en.wikipedia.org/wiki/Peloponnese) (Πελοπόννησος)** is a peninsula in southern Greece that connects to the mainland via the [Isthmus of Corinth](https://en.wikipedia.org/wiki/Isthmus_of_Corinth) (Ισθμός της Κορίνθου). The peninsula remains divided into seven regions, as it was in antiquity: [Achaea](https://en.wikipedia.org/wiki/Achaea), [Corinthia](https://en.wikipedia.org/wiki/Corinthia), [Argolis](https://en.wikipedia.org/wiki/Argolis), [Arcadia](https://en.wikipedia.org/wiki/Arcadia_(regional_unit)), [Laconia](https://en.wikipedia.org/wiki/Laconia), [Messenia](https://en.wikipedia.org/wiki/Messenia), and [Elis](https://en.wikipedia.org/wiki/Elis_(regional_unit)). The **Peloponesians** are people from Peloponnese.
+- **[Thessaly](https://en.wikipedia.org/wiki/Ancient_Thessaly) (Θεσσαλία)** a region of Greece.
+- **[Boeotia](https://en.wikipedia.org/wiki/Boeotia) (Βοιωτίας)** - *(Also Boiotia or Beotia)* - is a region of Greece, home to [Thebes](https://en.wikipedia.org/wiki/Thebes,_Greece) (Θήβα).
+- **[Arcadia](https://en.wikipedia.org/wiki/Arcadia_(region)) (Ἀρκαδία)** - *(Also Arkadia)* - a central region on the Peloponnese peninsula
+- **[Attica](https://en.wikipedia.org/wiki/Attica) (Αττική)** a peninsula that is the historic region encompassing the city of [Athens](https://en.wikipedia.org/wiki/Athens) (Αθήνα).
+- **[Ionia](https://en.wikipedia.org/wiki/Ionia) (Ἰωνία)** -->
+
+<!-- THIS IS WIP
+
+(double hash) The Peloponnesian War
+
+{{
+  fig(img=`![Map depicting the two sides of the Peloponnesian War](/img/peloponnesian-war-map-1899.webp 'The *Delian League* (Athens) and the *Peloponnesian League* (Sparta)')`, cite='<a href="https://commons.wikimedia.org/wiki/File:History_of_Greece_for_High_Schools_and_Academies_(1899)_(14763526485).jpg">Botsford, George Willis, 1862-1917</a>, No restrictions, via Wikimedia Commons')
+}} -->
+
 
 ## Texts
 
