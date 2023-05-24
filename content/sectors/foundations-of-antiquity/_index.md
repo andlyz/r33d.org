@@ -84,7 +84,7 @@ The Egyptian [Pharoh Ramsesses III](https://en.wikipedia.org/wiki/Ramesses_III) 
 
 ### The Greek Dark Ages (c. 1100 – c. 750 BCE)
 
-Around the time of the [Bronze Age Collapse](#bronze-age-collapse-c-1200-c-1150-bce), specifically the end of Mycenaean palatial civilization c. 1100 BCE, the use of the [Linear B](https://en.wikipedia.org/wiki/Linear_B) writing system, used by Mycenaean bureaucrats, disappears, and thus there is no writing from this time period. Pottery becomes simpler during this time too, lacking the depiction of figures from the Mycenaeans. With the exception of [Athens](https://en.wikipedia.org/wiki/Athens) (Αθήνα), major settlements were abandoned, and the Greek people lived in small, pastoral groups, leaving behind no traces of writing.
+Around the time of the [Bronze Age Collapse](#bronze-age-collapse-c-1200-c-1150-bce), specifically the end of Mycenaean palatial civilization c. 1100 BCE, the use of the [Linear B](https://en.wikipedia.org/wiki/Linear_B) writing system, used by Mycenaean bureaucrats, disappears, and thus there is no writing from this time period. Pottery becomes simpler during this time too, lacking the depiction of figures from the Mycenaeans. With the exception of [Athens](https://en.wikipedia.org/wiki/Athens) ('Αθήναι), major settlements were abandoned, and the Greek people lived in small, pastoral groups, leaving behind no traces of writing.
 
 One important consequence of this time period was the dismantling of the [palace economies](https://en.wikipedia.org/wiki/Palace_economy) from the Minoan and Mycenaean civilizations, which involved strict class hierarchies and hereditary rule.
 
